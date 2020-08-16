@@ -1,0 +1,20 @@
+body{
+    
+       
+        background-image: url("https://www.ndsu.edu/fileadmin/_migrated/RTE/RTEmagicC_NDSU_Primary_sml_01.jpg.jpg");
+      
+        
+        background-size: 150px;
+        background-repeat: space;
+    
+}
+.jumbotron{
+    background: linear-gradient(to right, white 50%, yellow 50%);
+}
+h1,h2{
+    text-align: center;
+}
+
+.whitebackground{
+    background-color: white;
+}
